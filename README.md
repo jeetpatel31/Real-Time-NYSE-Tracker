@@ -1,5 +1,7 @@
 ## Stock Tracker
 This project provides real-time updates on the most active stocks on the New York Stock Exchange (NYSE). Using web scraping, MongoDB, and an interactive web interface, users can view stock data including symbol, name, price, price change, and trading volume in a dynamic table.
+![alt text](Py/screenshot_1_1.jpg)
+![alt text](Py/screenshot_1_2.jpg)
 
 ## Features
 Scrapes live data from Yahoo Finance’s "Most Active Stocks" page.
